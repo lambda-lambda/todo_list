@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "deleted": false,
+    "created_time": 1546410270,
+    "updated_time": 1546410270,
+    "key": "8770082b-a737-44d0-9bff-8c741938e669",
+    "user_id": 1
+  },
+  {
+    "id": 2,
+    "deleted": false,
+    "created_time": 1546411186,
+    "updated_time": 1546411186,
+    "key": "cad433ce-5426-47e0-a430-5e76fb6ab039",
+    "user_id": 2
+  },
+  {
+    "id": 3,
+    "deleted": false,
+    "created_time": 1546411650,
+    "updated_time": 1546411650,
+    "key": "4842cc78-dc1e-4c87-af6d-cf1c666d8dd1",
+    "user_id": 4
+  }
+]

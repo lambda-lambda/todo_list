@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "deleted": false,
+    "created_time": 1546411659,
+    "updated_time": 1546411673,
+    "content": "睡觉",
+    "user_id": 4
+  },
+  {
+    "id": 2,
+    "deleted": true,
+    "created_time": 1546411664,
+    "updated_time": 1546411666,
+    "content": "休息",
+    "user_id": 4
+  }
+]
